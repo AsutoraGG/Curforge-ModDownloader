@@ -1,4 +1,4 @@
-[How to Get API Key](https://console.curseforge.com/#/api-keys)
+[How to Get API Key](https://console.curseforge.com/#/api-keys)  
 How to Get Project ID　and File ID
 
 
